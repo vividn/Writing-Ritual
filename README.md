@@ -43,6 +43,7 @@ Water bottle prepared
 Bathroom
 Posture
 Comfort (temp, chair, etc.)
+Fingernails trimmed
 Ibuprofen?
 Eye drops/Contacts/Glasses?
 "My body workspace is ready"
