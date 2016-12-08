@@ -32,7 +32,7 @@ Word Processor
 Zotero (move to correct directory)
 Timer App
 Recurring Timer
-(Other programs as needed)
+Set up virtual desktops
 "My digital workspace is ready."
 
 ######
