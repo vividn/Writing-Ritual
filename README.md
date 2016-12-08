@@ -31,6 +31,7 @@ Text Editor
 Word Processor
 Zotero (move to correct directory)
 Timer App
+Recurring Timer
 (Other programs as needed)
 "My digital workspace is ready."
 
@@ -41,6 +42,7 @@ Timer App
 Well fed
 Water bottle prepared
 Bathroom
+Stretch
 Posture
 Comfort (temp, chair, etc.)
 Fingernails trimmed
